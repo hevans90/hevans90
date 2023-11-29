@@ -1,5 +1,5 @@
 
-[Check out idleverse!](https://hevans90.github.io/idleverse)
+[Check out idleverse!](https://idleverse.app)
 
 
 <!--
